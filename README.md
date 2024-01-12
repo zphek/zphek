@@ -1,3 +1,5 @@
+# Hi there :) 
+
 # 💫 About Me:
 🔭 I’m currently working on Trip-MS<br>🌱 I’m currently learning Rust<br>
 
