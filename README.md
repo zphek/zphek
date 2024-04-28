@@ -1,4 +1,4 @@
-## Hi there 👋 
+# Hi there 👋 I'm Bernardoo :)
 
 # 💫 About Me:
 🔭 I’m currently working on (i don't have a name yet)-meeting<br>🌱 I’m currently learning Rust<br>
