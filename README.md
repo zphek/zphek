@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 # 💫 About Me:
-🔭 I’m currently working on Trip-MS<br>🌱 I’m currently learning Rust<br>
+🔭 I’m currently working on (i don't have a name yet)-meeting<br>🌱 I’m currently learning Rust<br>
 
 
 ## 🌐 Socials:
